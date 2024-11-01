@@ -1,0 +1,8 @@
+*.pkl
+**/*.h5
+**/*.json
+env/
+Freestyle1/
+Freestyle2/
+Standard/
+**/__pycache__/
